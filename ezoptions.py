@@ -622,7 +622,7 @@ def get_combined_intraday_data(ticker):
     return intraday_data, latest_price
 
 #Streamlit UI
-st.title("Ez Options Stock Data")
+st.title("Geekay's Options Data")
 
 # Modify the reset_session_state function to preserve color settings
 def reset_session_state():
